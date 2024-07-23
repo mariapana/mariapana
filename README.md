@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Maria Pana</h1>
-<h3 align="center">I'm a CSE Student who enjoys connecting the dots using software to solve practical problems.</h3>
 
-- 🔭 I’m currently studying at University POLITEHNICA of Bucharest.
+- 🏫 I'm a CSE Student at UPB who enjoys connecting the dots using software to solve practical problems.
 
-- 🌱 I’m currently learning about **Operating Systems, Embedded Programming, Networking and Security**
+- 🔭 Currently diving deep into the world of 1's and 0's, exploring my passion for Operating Systems, Embedded Programming, Networking and Security.
 
-- 👯 I love collaborating on open source projects, like Unikraft! (Chances are, I'm knee-deep in bootloader debugging as you read this)
+- 🌱 I love collaborating on open source projects, like Unikraft!
 
-- 📫 How to reach me **maria.pana4@gmail.com**
+- ⚡ Chances are, I'm knee-deep in bootloader debugging as you read this
+
+- 📫 You can reach me via mail at **maria.pana4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
