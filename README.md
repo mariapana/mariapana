@@ -6,7 +6,7 @@
 
 - 🌱 I love collaborating on open source projects, like Unikraft!
 
-- ⚡ Chances are, I'm knee-deep in bootloader debugging as you read this
+- ⚡ Chances are, I'm knee-deep in bootloader debugging as you read this.
 
 - 📫 You can reach me via mail at **maria.pana4@gmail.com**
 
